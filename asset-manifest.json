@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-HW/static/css/main.9199b748.css",
+    "main.js": "/React-HW/static/js/main.49c3aa1c.js",
+    "static/media/imn.jpg": "/React-HW/static/media/imn.f5138cad55ce58f4ee37.jpg",
+    "static/media/inn.jpg": "/React-HW/static/media/inn.b03baec0bcfecd3decd4.jpg",
+    "static/media/logo.png": "/React-HW/static/media/logo.e71c0452364d0f0968a6.png",
+    "static/media/in.jpg": "/React-HW/static/media/in.89ae22b246458d826a63.jpg",
+    "static/media/im.jpg": "/React-HW/static/media/im.025d34bf1953e06dff81.jpg",
+    "static/media/water.jpg": "/React-HW/static/media/water.b053cb6ea730977fc88d.jpg",
+    "static/media/Persiss.jpg": "/React-HW/static/media/Persiss.2574d136b630f2c0ac96.jpg",
+    "static/media/Persi.jpg": "/React-HW/static/media/Persi.55dfa1ca95227042892c.jpg",
+    "static/media/Persii.jpg": "/React-HW/static/media/Persii.1a402734e6bfd70e2907.jpg",
+    "index.html": "/React-HW/index.html",
+    "main.9199b748.css.map": "/React-HW/static/css/main.9199b748.css.map",
+    "main.49c3aa1c.js.map": "/React-HW/static/js/main.49c3aa1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9199b748.css",
+    "static/js/main.49c3aa1c.js"
+  ]
+}
